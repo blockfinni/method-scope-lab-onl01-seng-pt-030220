@@ -1,3 +1,5 @@
 def catch_phrase
-  puts "puts out a catch phrase"
+  
+  phrase = ""
+  puts phrase
 end
